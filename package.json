@@ -1,0 +1,24 @@
+{
+  "name": "paramtall",
+  "version": "1.0.0",
+  "description": "all",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lutfanidev/paramtall.git"
+  },
+  "dependencies": {
+    "paramt1": "1.0.0",
+    "paramt2": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lutfanidev/paramtall/issues"
+  },
+  "homepage": "https://github.com/lutfanidev/paramtall#readme"
+}
